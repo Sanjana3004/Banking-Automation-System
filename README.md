@@ -1,4 +1,8 @@
 # Banking-Automation-System
+Developed Graphical User Interface (GUI) application using Python and SQL for admin to manage automatic Transaction
+Allowing administrators to login, reset passwords, search, update and delete existing databases with a single click
+Web Application was made in Python using HTML, CSS at frontend embedded with SQL to connect database
+
 This project is a simple banking automation application using Tkinter for GUI and SQLite for database management. The application allows users to create and manage accounts, log in, view account details, update profiles, and perform basic banking transactions.
 
 Database Design Table: accounts The accounts table is designed to store essential information about each user account.
